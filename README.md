@@ -21,7 +21,7 @@ Este projeto é um validador de bandeiras de cartão de crédito feito em JavaSc
 ## Como usar
 
 1. Clone o repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` em seu navegador.
+2. Abra o arquivo `pages\index.html` em seu navegador.
 3. Digite o número do cartão no campo de texto e clique em "Verificar Bandeira".
 4. O nome da bandeira será exibido abaixo do botão, caso reconhecida.
 
